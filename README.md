@@ -13,14 +13,15 @@
 
 Pseudecode
 
-int typedatar (a, b)
-if (bill=1) return a
-if (bill=0) return b
-for (int i=2; i<=bil; i++)
-c= a+b, a=b, b=c
-end
+1.int typedatar (a, b)
+2.if (bill=1) return a
+3.if (bill=0) return b
+4.for (int i=2; i<=bil; i++)
+5.c= a+b, a=b, b=c
+6.end
 
 CODE PROGRAM
+
 #include <iostream>
 
 using namespace std;
