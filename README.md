@@ -55,8 +55,8 @@ return 0;
 }
 
 
-Hasil 
-![ing]()
+Hasil1 
+![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan1.cpp/hasil1.png)
 
 ##Soal2.cpp Alur Argoritma
 
@@ -104,8 +104,8 @@ main()
 }
 
 
-Hasil
-![ing]()
+Hasil2
+![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan2.cpp/hasil2.png)
  
 ##soal3.cpp Alur Argoritma
 
@@ -150,5 +150,5 @@ int main()
 
 }
 
-Hasil 
-![ing]()
+Hasil3 
+![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan3.cpp/hasil3.png)
