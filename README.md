@@ -11,8 +11,8 @@
 6.Deskripsikan variable untuk mencetak fuungsi selanjutnya.
 7.Cetak suku fibionici menggunakan pemanggilan fungsi itertif.
 
-Pseudecode
-
+**Pseudecode**
+```
 1.int typedatar (a, b)
 2.if (bill=1) return a
 3.if (bill=0) return b
@@ -20,8 +20,8 @@ Pseudecode
 5.c= a+b, a=b, b=c
 6.end
 
-CODE PROGRAM
-
+**Code Program**
+```
 #include <iostream>
 
 using namespace std;
@@ -54,8 +54,7 @@ cout<< iteratif ( bil,  a,  b,  c);
 
 return 0;
 }
-
-
+```
 Hasil1 
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan1.cpp/hasil1.png)
 
@@ -69,16 +68,16 @@ Hasil1
 6.Masukan variabel a,b untuk menginput nilai awal dan dibagi degan nilai selanjutny.
 7.Cetak nilai perkalian dengan memanggil funsi rekrusif menggunkan type datany.
 
-Pseudecode
-
+**Pseudecode**
+```
 deskripsi a x b =
 1. 0, untuk b = 0
 2. a + (a x (b-1)), untuk b > 0
 3. -a + (a x (b + 1)), untuk b < 0
 4. end
 
-CODE PROGRAM
-
+**Code Program**
+```
 #include <iostream>
 using namespace std;
 
@@ -103,21 +102,20 @@ main()
  cin >> b;
  cout << " AxB = " << kali_rekursif(a, b) << endl;
 }
-
-
+```
 Hasil2
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan2.cpp/hasil2.png)
  
 ##soal3.cpp Alur Argoritma
 
-Mulai program tersebut
-input menggunakan initruksi void dan menggunakan pointer untuk menetapakan void typedata (char *s)
-jika nilai s!=0--> menggunakan Pointer(*) maka masukan intruksi membalik (&s[1])
-masuan char untuk intruksi kata yang ingin kita ubah dan intruksi balik
-cetak pemblikan kata dengan memanggil funsi rekrusif menggunkan type datany.
+1.Mulai program tersebut
+2.Input menggunakan initruksi void dan menggunakan pointer untuk menetapakan void typedata (char *s)
+3.Jika nilai s!=0--> menggunakan Pointer(*) maka masukan intruksi membalik (&s[1])
+4.Masukan char untuk intruksi kata yang ingin kita ubah dan intruksi balik
+5.Cetak pemblikan kata dengan memanggil funsi rekrusif menggunkan type datany.
 
-Pseudecoede
-
+**Pseudecoede**
+```
 #include
 #include
 void balik(char *k){
@@ -131,8 +129,8 @@ balik(kata);
 cout<
 return 0;
 
-CODE PROGRAM
-
+**Code Program**
+```
 #include<iostream>
 #include<string.h>
 
@@ -150,6 +148,6 @@ int main()
     return 0;
 
 }
-
+```
 Hasil3 
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan3.cpp/hasil3.png)
