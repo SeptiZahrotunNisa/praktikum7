@@ -20,7 +20,6 @@
 5.c= a+b, a=b, b=c
 6.end
 
-
 **Code Program**
 ```
 #include <iostream>
@@ -130,7 +129,6 @@ char *kata=”....”;--> //untuk masukan kata
 balik(kata);
 cout<
 return 0;
-
 
 **Code Program**
 ```
