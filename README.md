@@ -55,10 +55,10 @@ cout<< iteratif ( bil,  a,  b,  c);
 
 return 0;
 }
-
 ```
-Hasil1 
+Hasil1
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan1.cpp/hasil1.png)
+ 
 
 ##Soal2.cpp Alur Argoritma
 
@@ -152,6 +152,5 @@ int main()
 
 }
 ```
-
-Hasil3 
+Hasil3
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan3.cpp/hasil3.png)
