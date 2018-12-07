@@ -20,6 +20,7 @@
 5.c= a+b, a=b, b=c
 6.end
 
+
 **Code Program**
 ```
 #include <iostream>
@@ -54,6 +55,7 @@ cout<< iteratif ( bil,  a,  b,  c);
 
 return 0;
 }
+
 ```
 Hasil1 
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan1.cpp/hasil1.png)
@@ -129,6 +131,7 @@ balik(kata);
 cout<
 return 0;
 
+
 **Code Program**
 ```
 #include<iostream>
@@ -149,5 +152,6 @@ int main()
 
 }
 ```
+
 Hasil3 
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan3.cpp/hasil3.png)
