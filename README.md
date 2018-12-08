@@ -79,7 +79,7 @@ deskripsi a x b =
 4. end
 
 **Code Program**
-```
+```c++
 #include <iostream>
 using namespace std;
 
@@ -133,7 +133,7 @@ cout<
 return 0;
 
 **Code Program**
-```
+```c++
 #include<iostream>
 #include<string.h>
 
