@@ -105,7 +105,7 @@ main()
  cout << " AxB = " << kali_rekursif(a, b) << endl;
 }
 ```
-**Hasil2**
+Hasil2
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan2.cpp/hasil2.png)
  
 ##soal3.cpp Alur Argoritma
