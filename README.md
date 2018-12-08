@@ -21,7 +21,7 @@
 6.end
 
 **Code Program**
-```
+```c++
 #include <iostream>
 
 using namespace std;
@@ -55,7 +55,8 @@ cout<< iteratif ( bil,  a,  b,  c);
 return 0;
 }
 ```
-Hasil1
+
+**Hasil1**
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan1.cpp/hasil1.png)
  
 
@@ -104,7 +105,7 @@ main()
  cout << " AxB = " << kali_rekursif(a, b) << endl;
 }
 ```
-Hasil2
+**Hasil2**
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan2.cpp/hasil2.png)
  
 ##soal3.cpp Alur Argoritma
@@ -120,12 +121,12 @@ Hasil2
 #include
 #include
 void balik(char *k){
-if(*k!=”){
+if(*k!=â€){
 balik(&k[1]);
 cout<
 }
 }main(){
-char *kata=”....”;--> //untuk masukan kata
+char *kata=â€....â€;--> //untuk masukan kata
 balik(kata);
 cout<
 return 0;
@@ -150,5 +151,5 @@ int main()
 
 }
 ```
-Hasil3
+**Hasil3**
 ![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum7/master/latihan3.cpp/hasil3.png)
